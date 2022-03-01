@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King, and none under God, but the King, can save this nation. With a Welch prophesie (prophecied above a thousand years ago) now Englished and fulfilled to the admiration of all that reads it. / By William Williams, gent.</title>
+            <author>Williams, William, b. 1613.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06639</idno>
+            <idno type="STC">Wing W2789</idno>
+            <idno type="STC">ESTC R186711</idno>
+            <idno type="EEBO-CITATION">52529377</idno>
+            <idno type="OCLC">ocm 52529377</idno>
+            <idno type="VID">179271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179271)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2781:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King, and none under God, but the King, can save this nation. With a Welch prophesie (prophecied above a thousand years ago) now Englished and fulfilled to the admiration of all that reads it. / By William Williams, gent.</title>
+                  <author>Williams, William, b. 1613.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Creake,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Cardiff Central Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179271:1"/>
+            <!-- PDF PAGE 95 -->
+            <pb facs="tcp:179271:1"/>
+            <!-- PDF PAGE 95 -->
+            <pb facs="tcp:179271:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 96 -->
+            <pb facs="tcp:179271:2"/>
+            <!-- PDF PAGE 96 -->
+            <pb facs="tcp:179271:3"/>
+            <!-- PDF PAGE 97 -->
+            <pb facs="tcp:179271:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>THE KING, And none under GOD, but the KING, Can Save this NATION.</p>
+            <p>With a <hi>Welch</hi> Propheſie (prophecied a<g ref="char:EOLhyphen"/>bove a Thouſand years ago) now Engliſhed and Fulfilled to the Admiration of all that reads it.</p>
+            <p>BY WILLIAM WILLIAMS, <hi>Gent.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ECCLES. 8.4.</hi>
+               </bibl>
+               <p>Where the word of a <hi>KING</hi> is, there is Power, and who may ſay unto Him, What doſt Thou?</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Creake,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:179271:4"/>
+            <!-- PDF PAGE 98 -->
+            <head>The <hi>KING,</hi> and none under God, but the <hi>KING,</hi> Can ſave this <hi>NATION.</hi>
+            </head>
+            <p>BRethren it is not unknown unto you, how <hi>Abraham</hi> (the Fa<g ref="char:EOLhyphen"/>ther of all the faithful, <hi>Gen.</hi> 14.18, 19, 20. <hi>Heb.</hi> 7.4. honoured <hi>Melchiſedec</hi> King of <hi>Salem,</hi> doing him homage and giving him tythes.) And how God in the concluſion of his promiſes to <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> and <hi>Jacob,</hi> and having changed their names, <hi>Gen</hi> 17.6. <hi>Gen.</hi> 35.11. at laſt tells them that Kings ſhould come out of their Loins, imitating that to be the chief and greateſt of all his bleſſings to them.</p>
+            <p>And if we conſider the Hiſtory of the Children of <hi>Iſrael,</hi> and look upon their different condition, when they had no King, and when they had a King, we ſhall find it ſo indeed: for <hi>Moſes</hi> who under God, brought the Children of <hi>Iſrael</hi> out of <hi>Egypt,</hi> is called a King, <hi>Deut.</hi> 33.5. to ſhew us that ſuch a great work as that was, could not be done without a King; and under a ſingle Perſon they Conquered the Land of <hi>Canaan;</hi> Read the book of <hi>Ioſhua:</hi> but ſoon after <hi>Ioſhua</hi> died, <hi>Iſrael</hi> will be a free State, (without King or Single Perſon) to do what is right in their own eyes, (they caſt off God &amp; his Law) they will have a pure liberty of Conſcience to do what they liſt; and to ſerve what God they pleaſe, <hi>Iudg.</hi> 2.13, 14, 15. and ſome ſerves one falſe God, and ſome another: yea they were di<g ref="char:EOLhyphen"/>vided and devoted to ſerve ſeven Gods at once, <hi>Iudg.</hi> 10.6. yet the true God came not into their minds, until they are forced to cry unto him being ſore oppreſſed (for want of a King of their own) by all the Kings round about them whoſe Gods they ſerved; but the Lord hearing their cry, now and then giveth them a Deliverer to ſave them, <hi>Iudg.</hi> 2.17. yet after they obey him not, to ſerve the Lord.</p>
+            <p>And when their Judge our Deliverer is dead, <hi>Iudg.</hi> 2.19. they re<g ref="char:EOLhyphen"/>turn unto their folly free ſtate again (not regarding God nor his Law) that they might do what is right in their own eyes: ſo that the true worſhip of God is not mentioned to have been in all the time of the book of <hi>Iudges:</hi> and all the reaſon given to ſhew us, why? (the Children of <hi>Iſrael</hi> were ſo ungodly, unrighteous, and in ſuch miſery during that time) is becauſe they had no King, <hi>Iudg.</hi> 17.6, 7. as you ſee, <hi>Micah</hi> ſets up an Idol, <hi>Iudg.</hi> 18. the <hi>Danites</hi> rob him of it, the men of <hi>Gebeah</hi> like the <hi>Sodomites</hi> uſe the <hi>Levit</hi> and his Wife, <hi>Iudg</hi> 19. and
+<pb n="3" facs="tcp:179271:4"/>
+               <!-- PDF PAGE 98 -->this was their doings when they had no King, <hi>Iudg.</hi> 2.14. the ſtron<g ref="char:EOLhyphen"/>ger deſtroys the weaker, and the Kings of the Nations round about them, <hi>Iudg.</hi> 6.2, 3, 4, 5, 6. deſtroy them, oppreſſe them, <hi>Iudg.</hi> 5.6, 7, 8. drive them into holes, 1 <hi>Sam.</hi> 13.19, 20. takes all their Arms from them ſuffers them to have no Smiths among them, 1 <hi>Sam.</hi> 14.11, 22. ſo that when God is pleaſed to raiſe them a Deliverer or Judge to bring them into a little better condition, he having no other wea<g ref="char:EOLhyphen"/>pon, ſometimes muſt overcome their enemies with an oxe Goad, or the jaw bone of an Aſs; and in ſuch miſery they continued (until the time of <hi>Samuel</hi>) four hundred and fifty years, <hi>Iudg.</hi> 3 31. <hi>Iudg.</hi> 15.16. <hi>Act.</hi> 14.20. and when they had a King, <hi>Saul</hi> by name, &amp; though as bad as ſome count him, yet he delivered <hi>Iſrael</hi> from all their ene<g ref="char:EOLhyphen"/>mies: and did for the Children of <hi>Iſrael,</hi> (put all their actions to<g ref="char:EOLhyphen"/>gether) more then all their Judges in 400. years had done, 1 <hi>Sam.</hi> 14.47, 48.</p>
+            <p>We need not compare that time, to our preſent time, every one can apply it; and ſee that as the <hi>Iſraelites</hi> were delivered from <hi>Egypt,</hi> ſo we were delivered from Popery; and as they had a Law made for them to worſhip God, ſo we had a Law made for us to worſhip God; &amp; as they caſt off the true ſervice of God, to ſerve <hi>Baal</hi> &amp; <hi>Aſhtaroth</hi> and all the Gods of the Nations, and were ſpoiled by them; ſo we caſt off the true ſervice of God, to ſerve Independents, Anabaptiſts, Levellers, Renters Quakers, with many more Sects, and were ſpoiled by them; we may ſee our own condition, by theirs, as a man ſeeth his face in a looking Glaſs: and we may conclude alſo with them, that all this is come upon us, becauſe we have no King; and deſire the Lord to give us a King.</p>
+            <p>Doubtleſſe the Gods of theſe Nations had as delightful, pleaſing, deluding power to draw the corrupt nature of man to their ſervice, as that power we ſee now hath to draw men to the Sectaries of our times: ſo that it was hard for <hi>Iſrael</hi> to live among them, and not to be deluded by them, and drawn away from the true God; there<g ref="char:EOLhyphen"/>fore they were commanded to deſtroy their Altars, and utterly to conſume both them and their worſhippers, <hi>Deut.</hi> 7.1, 2, 5. <hi>Deut.</hi> 12.2, 3. <hi>Iudg.</hi> 2.2, 3.</p>
+            <p>And now to the Hiſtory again; <hi>Samuel</hi> had ſetled his Sons to be Judges in <hi>Iſrael,</hi> and they took bribes and perverted Judgment, 1 <hi>Sam.</hi> 8.5, 6, 7, 8. and becauſe of that, all the Elders of <hi>Iſrael</hi> came to <hi>Samuel,</hi> and ſaid unto him, behold, thou art old and thy Sons, walk
+<pb n="4" facs="tcp:179271:5"/>
+               <!-- PDF PAGE 99 -->not in thy ways: now make us a King to Judge us, like all the Nati<g ref="char:EOLhyphen"/>ons, but the thing diſpleaſed <hi>Samuel:</hi> when they ſaid give us a King to Judge us; and <hi>Samuel</hi> prayed unto the Lord, and the Lord ſaid unto <hi>Samuel,</hi> hearken unto the voice of the people in all that they ſay unto thee; for they have not rejected thee, but they have rejected me that I ſhould not Reign over them: according to all the works which they have done ſince the day that I brought them up out of the Land of <hi>Egypt</hi> even unto this day, wherewith they have forſaken me, and ſerved other Gods, ſo they do alſo unto thee 1 <hi>Sam.</hi> 10 18, 19. thus the Lord anſwered <hi>Samuels</hi> prayer: and he took it in this ſence, that the people in rejecting him, rejected the Lord; and <hi>Samuel</hi> all along holds it forth, ſo making the people to be great ſinners in <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing a King; but the Elders of <hi>Iſrael</hi> took it in this ſence, that as the people did formerly reject the Lord to be their God, and ſerved other Gods, ſo now they doe reject <hi>Samuel,</hi> and would have a King; for ſo the word of the Lord holds it forth, ſaying, they have forſaken me &amp; ſerved other Gods<g ref="char:punc">▪</g> ſo doth they alſo unto thee, 1 <hi>Sam.</hi> 8.8. and the Elders would not at all croſs the good old man in his ſaying (who was now diſpleaſed,) but lets him have it, yet notwithſtand<g ref="char:EOLhyphen"/>ing <hi>Samuels</hi> words they will have a King, and will ſtand firme for him, for all <hi>Samuels</hi> perſwaſion to the contrary; for <hi>Samuel</hi> tels them what the Lords anſwer to his Prayer was, 1 <hi>Sam.</hi> 8.10. and they ſee the mind of the Lord, and that <hi>Samuel</hi> being a little carried aſide by ſelf intereſt did not conſtrue it right. And it is the nature of good men to confine God to their own aſſemblies, yea Governours have high conceits of themſelves, as if God were no where but with them, witneſs that proud Motto upon our States Coine; <hi>God with us, the Commonwealth of England:</hi> it is true, <hi>Samuel</hi> was a mighty Prophet, but not without ſin; his fault was <hi>Ely</hi>'s fault, he loved his ſons too much, ſo that he would not heare of their evil doings.</p>
+            <p>The whole booke of Judges is a ſtory of Iſraels miſery, for want of a King, <hi>Judg.</hi> 21.25. and it ends with a lamentation, thus, <hi>In thoſe daies there was no King in Iſrael, every man did what was right in his own eyes.</hi> Theſe things were written for our example and learning; and truly we may very well ſay Amen to it; for we know it to be true by woefull experience, we had a King, and then were the hap<g ref="char:EOLhyphen"/>pieſt people in the world, and now we have no King, we are in a woe<g ref="char:EOLhyphen"/>full condition at home, and in ſcorn and deriſion throughout the
+<pb n="5" facs="tcp:179271:5"/>
+               <!-- PDF PAGE 99 -->world; and could not our great Scripturians ſee this before now? No ſure, the Kings Lands, and Biſhops Lands, with Deanes and Chapters Lands ſtood in their eyes and made them blind, ſo that they could not ſee the truth, but now let Chriſt open your eyes.</p>
+            <p>I know you would not be counted the ſons of <hi>Belial,</hi> (or ſons of the Devil, that is the meaning of it,) therefore ſee of what ſort the ſons of <hi>Belial</hi> are, 1 They are wicked <hi>Sodomites, Judg.</hi> 19.22. 2. They know not the Lord, 1 <hi>Sam.</hi> 2.21. 3 They are againſt King<g ref="char:EOLhyphen"/>ſhip. 1 <hi>Sam.</hi> 10.26.27. 4 They are very unruly, 2 <hi>Sam.</hi> 23.6.7. 5 They have neither bounty nor charity or Juſtice, but they would have all to themſelves though they ſpue it up again, 1 <hi>Sam.</hi> 1.14.15.16. 1 <hi>Sam.</hi> 30.22.23.24.25. 6 They have no concord with Chriſt, 2 <hi>Cor.</hi> 6.15. 7 Of ſuch <hi>Belials</hi> (that pretend holy things, but intend earthly things,) doth the Apoſtle ſpeake. <hi>Rom.</hi> 16.17.18. <hi>Phil.</hi> 3.18.19. I ſay by theſe marks you may know whether ye are the ſons of <hi>Belial</hi> or no, and if ye be and continue to be the ſons of <hi>Belial,</hi> how ye are to expect ſudden deſtruction. <hi>Phil.</hi> 3.18.19. 1 <hi>Theſ.</hi> 5.3. &amp; to con<g ref="char:EOLhyphen"/>firm it with ſomething that ſpeaks to us in particular, I will ſhew you a Welch Prophecy, ſpoken above a thouſand years agoe by <hi>Talieſin,</hi> &amp; Printed above two years agoe, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen none could tell what it meant; but now every one may ſee it fulfilled, ye have it <hi>page</hi> 82. (of Mr. <hi>Pughe</hi>'s book, called Brittiſh and outlandiſh Propheſies) Thus as followeth</p>
+            <list>
+               <item>Bid. S. <hi>Wyddeles yn weddillion.</hi>
+               </item>
+               <item>Bid. <hi>Frwythig y fall, bid ball ar ſaefon.</hi>
+               </item>
+               <item>Bid. M. <hi>Ar grwydir wedi brwydar vnion.</hi>
+               </item>
+               <item>Bid. H. <hi>Yn rhychor ynghor eugylion.</hi>
+               </item>
+               <item>Bid. L. <hi>Ddigwyn a ddwyn gelynion.</hi>
+               </item>
+               <item>Bid. <hi>Naw yn osbarth ar arth anghifion.</hi>
+                  <note place="margin">Arthur is a beare of Steel.</note> 
+               </item>
+               <item>Bid. <hi>Yno cymro yn Cymrud y Cloffion.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In Engliſh.</head>
+               <item>1 Let S. The Iriſh be a reſerve.</item>
+               <item>2 Let the Belial Engliſh be unſatisfied.</item>
+               <item>3 Let M. Be wandring after an union of diſtra<g ref="char:EOLhyphen"/>ction.</item>
+               <item>4 Let H. Be chief in the quire of Angels.</item>
+               <item>5 Let L. not regarded bring in Enemies.</item>
+               <item>6 Let 9. Controle the unrighteous bear.</item>
+               <item>Let The Welchman then take the lame.</item>
+            </list>
+            <p>1 That is the <hi>Scots Iriſh highlanders.</hi> 2 That is thoſe who are againſt King<g ref="char:EOLhyphen"/>ſhip. 3 That is General <hi>Monck.</hi> 4 That is Sir <hi>Ar<g ref="char:EOLhyphen"/>thur
+<pb n="6" facs="tcp:179271:6"/>
+                  <!-- PDF PAGE 100 -->Haſilrig.</hi> 5 That is <hi>Lambert</hi> now under foot. 6 That is the Nine Colonels Controles Sir <hi>Arthur Heſilrig.</hi>
+            </p>
+            <p>The Welchman is the Prince of <hi>Wales,</hi> who without doubt will come in ſuddenly: make your peace with him quickly, leſt <hi>Lam<g ref="char:EOLhyphen"/>bert</hi> and thoſe gallant old Colonels and Commanders laid aſide by you, beat up your quarters for him: I promiſe you they want neither wiſdome nor valour, and they will not want weapons, and Ox Goad or the jaw bone of an Aſſe in their hands will do more execution, then all your weapons; they are experienced Souldiers, and much beloved among your Souldiers, and by many in City and Coun<g ref="char:EOLhyphen"/>trey; therefore beware leſt by your delay in Proclaming the King, you bring it to another War and looſe all.</p>
+            <p>The people were divided in <hi>Samuels</hi> time (as now we are) ſome for the King, and ſome againſt the King: thoſe that were for a King were ſo earneſt, becauſe God had touched their hearts to be ſo minded, as once he touched <hi>Lydias</hi> heart: but they who were againſt the King are called the Children of <hi>Belial,</hi> who ſaid of <hi>Saul,</hi> how ſhall this man ſave us, and they deſpiſed him, 1 <hi>Sam.</hi> 10.26, 27. <hi>Act.</hi> 16.14. yet we ſee how under God, <hi>Saul</hi> firſt ſaved them from <hi>Na<g ref="char:EOLhyphen"/>haſh</hi> the <hi>Ammonite,</hi> and after that from the <hi>Iſraelites,</hi> who would have put them to death, becauſe they deſpiſed King <hi>Saul,</hi> had he not ſtood up for them, 1 <hi>Sam.</hi> 11.11, 12, 13. ſo that theſe deſpiſers were more beholding to <hi>Saul</hi> then all the reſt of the people beſide; and who knoweth O ye diſpiſers of King <hi>Charls Stuart,</hi> whether it may not be your caſe, and that King <hi>Charles</hi> ſhall ſave you in like manner.</p>
+            <p>But you will ſay we will have no King to ſave us, but King Jeſus? I anſwer, do you think that Jeſus was not the Saviour in thoſe days, but he ſaveth by means, now as he did then; <hi>Saul</hi> was the means who gave the Glory to the Lord, 1 <hi>Sam</hi> 11.13. and before thoſe days Jeſus was the King and the Saviour, yet <hi>Moſes</hi> was the means; for he was King in <hi>Ieſhurum, Deut.</hi> 33.5. or in the room of Jeſus, <hi>Moſes</hi> was deputy or Steward, as King <hi>Charls Stuart;</hi> now as for Steward it is a Prophetick Goſpel word which hath the promiſe, <hi>Luk.</hi> 12.42, 43. therefore have a care that you deſpiſe him not, for he is Chriſt Jeſus high Steward or <hi>Vice-Roy</hi> at this time.</p>
+            <p>I have heard 15 years agoe, that they had a ſport or a way of diſ<g ref="char:EOLhyphen"/>pute
+<pb n="7" facs="tcp:179271:6"/>
+               <!-- PDF PAGE 100 -->in <hi>Bedlam,</hi> which they cal'd the hunting of the ſpirit; and they hunted it alwaies until they came unto the word King, and then they could go no further; and I find ſince that many in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath been a long time hunting the ſpirit: and now it is come to the word King, they muſt hunt no further; for the ſpirit now re<g ref="char:EOLhyphen"/>ſteth on King <hi>Charls,</hi> as it reſted on King Jeſus 1630 years ago, <hi>Ioh.</hi> 1.23. I know thoſe <hi>Bedlam</hi> men were inſpired with no worſe ſpi<g ref="char:EOLhyphen"/>rit then them are who all a long ſince, and now pretended to have much of the ſpirit, yet they hunt the true ſpirit of God; and that thoſe <hi>Bedlams</hi> were forerunners of ſuch Sectaries as we had ſince: but let them reſt with the word King, as thoſe <hi>Bedlams</hi> did, and go no further laſt they periſh.</p>
+            <p>This came providentially to me, and I thought good to cite it as an Argument among the reſt, to bring thoſe people which indeed I love, to leave their folly; and though it be a mean argument, yet I know thoſe people look upon mean things to be of God, and moſt powerful to work great things in mens hearts, and ſo be it unto them.</p>
+            <p>God indeed doth not ſeem to approve of a people that run from one Government to another who are never ſatisfied; therefore <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> doth ſtrongly argue, that the people of <hi>Iſrael</hi> who alwaies (ſince they were a people) had been Governed by Judges, did evil in ask<g ref="char:EOLhyphen"/>ing a King to govern them; and his main argument to convince them, was the ſhewing them their deſcent and government under which God did own them, 1 <hi>Sam.</hi> 12.7, 8, 9, 12, 13. alas, what is that to our cafe, they had been then but 4 or 5 hundred years under Judges, <hi>Act.</hi> 13.20. we have been above 3000 years under Kings, in which time we received ſuch ſignal ſignes of Gods favour that none had the like: I ſay what would <hi>Samuel</hi> ſay (if he were preſent now) to ſee ſuch a people that refuſe their King, and would change their ſo ancient a government; truly I do believe he would be ſo diſplea<g ref="char:EOLhyphen"/>ſed with them for it, that he would immediately call to God for Thunder and Fire from Heaven to deſtroy them from off the Earth, 1 <hi>Sam.</hi> 7.8, 9, 10. 1 <hi>Sam.</hi> 12.18.</p>
+            <p>I never ſaw young King <hi>Charls</hi> but once in all my life, &amp; then he was a Child, upon this occaſion I ſaw him, when I came out of priſon in the Lent time, 1638. I went to hear a Sermon at <hi>VVhitehal,</hi> the Text
+<pb n="8" facs="tcp:179271:7"/>
+               <!-- PDF PAGE 101 -->was, <hi>Luke</hi> 19.41, 42, 43, 44. <hi>If thou hadſt known, (even thou,) at leaſt in this thy day, the things which belong to thy peace, but now they are hid from thine eyes.</hi> &amp;c. And after the Sermon (which was very pertinent, touching the things which came to paſſe in <hi>England</hi> ſince that time,) a man came with Prince <hi>Charles</hi> in his Armes, and held him out over the Rales of the Gallary, for all the people to ſee him, to ſhew them that he was under God, the only means of peace to them, and ſo I believed then, and do believe yet, that <hi>England</hi> cannot be happy without him, and now alſo the people are ſenſible of it.</p>
+            <p>Therefore ye great ones, do not think, that the people value Par<g ref="char:EOLhyphen"/>liaments ſo much, as their joy manifeſted of late, upon the news of a free Parliament, but that their hope is, they will bring in the King, otherwiſe they care not for Parliaments; the late King <hi>Charls</hi> gave them too much of that already, they know Parliaments by woful experience to be hurtful to them; ſo that they do not deſire to have Parliaments Reign over them any longer</p>
+            <p>But now beware ye people (that deſire the King) what men ye Chuſe to Sit this next enſuing Parliament; for if ye Chuſe any of them that have bought or ſold the King, Biſhops, Deanes, and Chap<g ref="char:EOLhyphen"/>ters Lands, they will do you no good; therefore chuſe none of them nor any of their Friends, which you think will carry on their private ends and ſelf-intereſt.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179271:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 101 -->
+            <pb n="8" facs="tcp:179271:8"/>
+            <!-- PDF PAGE 102 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:179271:8" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
